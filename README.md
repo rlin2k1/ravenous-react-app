@@ -12,3 +12,4 @@ Run 'npm install' to download dependencies of the Web Application.
 
 ## Usage
 In the project directory, run 'npm start' to run the application in development mode. Open http://localhost:3000 to view in browser of choice. 
+BOTH FIELDS -> 'SEARCH BUSINESS' and 'WHERE' Needs to be Filled Out and then Press 'Let's Go'
