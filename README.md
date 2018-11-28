@@ -7,7 +7,7 @@ This project was bootstrapped with Create React App (Global Command Line Utility
 * Developed on the macOS High Sierra Version 10.13.6 using Visual Studio Code<br>
 
 ## Dependencies
-Need Node.JS Installed<br>
+Need Node.JS Installed -> https://nodejs.org/en/<br>
 Run 'npm install' to download dependencies of the Web Application.
 
 ## Usage
